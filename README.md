@@ -1,8 +1,24 @@
-# Eriantys - Software Engineering Final Project 2022
+<a name="readme-top"></a>
 
-## Overview
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/MarioCela/Eriantys_Board_Game_SE">
+    <img src="src/resources/Images/LOGO.png" alt="Eriantys Logo" width="192">
+  </a>
 
-### Quick View of the Project
+<h3 align="center">Eriantys Board Game Implementation</h3>
+
+  <p align="center">
+    Eriantys Board Game - Software Engineering Final Project 2022 - Politecnico di Milano
+  </p>
+  <br />
+</div>
+
+
+
+<!-- ABOUT THE PROJECT -->
+## Eriantys Board Game :dragon:
 
 This is the final project of the Software Engineering course of the Bachelor's Degree at Politecnico di Milano. The course was held by Alessandro Margara.
 
@@ -12,7 +28,7 @@ We had to develop the game exploiting the Model-View-Controller (MVC) pattern. T
 
 Images and brief descriptions of all the parts of the project will be provided.
 
-<img src="https://img.dungeondice.it/49229-large_default/eriantys.jpg" width=360px height=360 px align="right" />
+<img src="src/resources/Images/eriantys.jpg" width=480px px align="right" />
  
 | Functionality    |                       State                        |
 |:-----------------|:--------------------------------------------------:|
@@ -29,13 +45,11 @@ For the additional functionalities, we decided to develop all the 12 character c
 
 Other functionalities, such as concurrent multiple games and allowing the back up of the game after an undesired disconnection, have not been implemented.
 
-### Group Members
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-* [Alessandro Calvi](https://github.com/alecalvi00): alessandro4.calvi@mail.polimi.it  
-* [Mario Cela](https://github.com/MarioCela): mario.cela@mail.polimi.it  
-* [Alberto Ceresoli](https://github.com/AlbertoCeresoli): alberto.ceresoli@mail.polimi.it  
+## Implementation Details :dragon_face:
 
-## Model
+### Model
 
 The model satisfies all the requirements of Eriantys, according to the rules of the board game.
 
@@ -47,6 +61,15 @@ Interesting choices done during the development of the project are:
 
 * Usage of the state pattern to manage cards effects that involve the method of assignment of teachers to the players: the reason behind is choice is the same the one explained in the previous point. For more, involved classes can be found [here](src/main/java/it/polimi/ingsw/Model/Teacher/).
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## TO BE CONTINUED
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- RUN -->
 ## Run
 
 ### JAR file
@@ -62,3 +85,25 @@ Now you're ready to play.
 
 In order to enable the ANSI color view from **Windows** prompt interface, you may need to run as administrator the .bat file we provided before starting the game.  For a better experience as CLI users
 we also recommend to choose a window-size first and not to change it for the rest of the game.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- LICENSE -->
+## License 📄
+
+Distributed under the `MIT` License. See [LICENSE](https://github.com/MarioCela/Eriantys_Board_Game_SE/blob/main/LICENSE) for more information.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- CONTACT -->
+## Group Members 👥
+
+* [Alessandro Calvi](https://github.com/alecalvi00): alessandro4.calvi@mail.polimi.it  
+* [Mario Cela](https://github.com/MarioCela): mario.cela@mail.polimi.it  
+* [Alberto Ceresoli](https://github.com/AlbertoCeresoli): alberto.ceresoli@mail.polimi.it  
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
