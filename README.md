@@ -75,7 +75,7 @@ Interesting choices done during the development of the project are:
 ### JAR file
 
 In order to open jar files, you need to have a JDK for java installed on your PC.  To run the jar you have to go in the target directory and use this command:  
-```java -jar AM05-1.0-SNAPSHOT-jar-with-dependencies.jar``` <p> **The jar file has to be downloaded from the link in the "deliveries" folder and has to be locally put in the directory**</p>
+```java -jar AM05-1.0-SNAPSHOT-jar-with-dependencies.jar``` <p> **The jar file has to be downloaded from the [link](https://polimi365-my.sharepoint.com/:u:/g/personal/10680462_polimi_it/Ed2xABxEAOxLhCfPCKUHEVIBsf4S4F87e2pkwOHbYGWvow?e=Qhd5t4) in the "deliveries" folder and has to be locally put in the directory**</p>
   
 **NB** The server always runs on **1234** port.
 
@@ -83,7 +83,7 @@ Now you're ready to play.
 
 ### For command-line users
 
-In order to enable the ANSI color view from **Windows** prompt interface, you may need to run as administrator the .bat file we provided before starting the game.  For a better experience as CLI users
+In order to enable the ANSI color view from **Windows** prompt interface, you may need to run as administrator the [.bat file](https://github.com/MarioCela/Eriantys_Board_Game_SE/blob/main/EnableAnsiCmd.bat) we provided before starting the game.  For a better experience as CLI users
 we also recommend to choose a window-size first and not to change it for the rest of the game.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
