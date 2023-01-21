@@ -28,7 +28,7 @@ We had to develop the game exploiting the Model-View-Controller (MVC) pattern. T
 
 Images and brief descriptions of all the parts of the project will be provided.
 
-<img src="src/resources/Images/eriantys.jpg" width=490px px align="right" />
+<img src="src/resources/Images/eriantys.jpg" width=480px px align="right" />
  
 | Functionality    |                       State                        |
 |:-----------------|:--------------------------------------------------:|
