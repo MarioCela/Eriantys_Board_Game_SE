@@ -1,9 +1,13 @@
 <a name="readme-top"></a>
 
+[![Java](https://a11ybadges.com/badge?logo=java)](https://www.java.com/it/)
+[![IntelliJ](https://a11ybadges.com/badge?logo=intellijidea)](https://www.jetbrains.com/idea/)
+
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/MarioCela/Eriantys_Board_Game_SE">
+  <a href="http://www.craniocreations.it/">
     <img src="src/resources/Images/LOGO.png" alt="Eriantys Logo" width="192">
   </a>
 
